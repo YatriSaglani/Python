@@ -53,25 +53,7 @@ Personal-Data-Collector/
 └── README.md
 ```
 
-## ▶️ How to Run
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Personal-Data-Collector.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd Personal-Data-Collector
-```
-
-3. Run the Python file
-
-```bash
-python Fundaments.py
-```
 
 ## 💡 Sample Output
 
