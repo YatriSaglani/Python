@@ -132,8 +132,8 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍🎓 Author
 
 **Yatri Saglani**
 
-Computer Engineering Student
+Computer Engineering Student | Future Data Scientist & ML Engineer
