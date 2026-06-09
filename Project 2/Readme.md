@@ -110,7 +110,7 @@ Exiting the Program, Goodbye!!!
 
 ```text
 LogicBox.py
-README.md
+Readme.md
 ```
 
 ---
