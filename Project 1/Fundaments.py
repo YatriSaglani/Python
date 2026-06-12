@@ -13,6 +13,6 @@ print("Favourite Number is : ",num,"Data type is :",type(num),"Memory Address is
 
 
 byear = 2026-age
-print("\nYour Birthyear is approxemetley : ",byear,"\n")
+print("\nYour Birthyear is approximetley : ",byear,"\n")
 
 print("Thank you for using the personal data collector . Have a good day !")
