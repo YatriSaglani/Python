@@ -53,44 +53,26 @@ Personal-Data-Collector/
 └── README.md
 ```
 
-## ▶️ How to Run
 
-1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/Personal-Data-Collector.git
-```
-
-2. Navigate to the project folder
-
-```bash
-cd Personal-Data-Collector
-```
-
-3. Run the Python file
-
-```bash
-python Fundaments.py
-```
 
 ## 💡 Sample Output
 
 ```text
 Welcome to the first project of my course AI/ML Data Science
 
-Enter your name : Alice
-Enter your age : 25
-Enter your height in meters : 1.68
-Enter your favourite number : 7
+Enter your name : Yatri
+Enter your age : 19
+Enter your height in meters : 1.5
+Enter your favourite number : 1
 
 Thank you giving me your details, the information we collected is:
 
-Name is : Alice
-Age is : 25
-Height is : 1.68
-Favourite Number is : 7
+Name is : Yatri
+Age is : 19
+Height is : 1.5
+Favourite Number is : 1
 
-Your Birthyear is approximately : 2001
+Your Birthyear is approximately : 2007
 
 Thank you for using the personal data collector. Have a good day!
 ```
@@ -112,4 +94,4 @@ Through this project, I learned:
 
 Computer Engineering Student | Future Data Scientist & ML Engineer
 
-⭐ If you found this project helpful, consider giving it a star!
+
