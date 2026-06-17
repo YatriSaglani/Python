@@ -33,7 +33,6 @@ CollectionManipulator.py
 
 ## 📋 Menu Options
 
-WELCOME TO STUDENT DATA ORGANIZER
 1. Add Student
 2. Display All Students
 3. Update Student Information
