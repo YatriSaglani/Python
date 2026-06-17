@@ -128,5 +128,3 @@ Through this project, I gained hands-on experience with:
 
 **Yatri Saglani**  
 Computer Engineering Student | Python Learner 
-
----
