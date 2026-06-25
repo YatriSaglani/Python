@@ -150,7 +150,7 @@ After completing this project, you will understand:
 
 **Yatri Saglani**
 Computer Engineering Student
-Future Web Developer & Python Enthusiast
+Python Enthusiast
 
 ---
 
