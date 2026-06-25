@@ -33,7 +33,6 @@ CollectionManipulator.py
 
 ## 📋 Menu Options
 
-```text
 1. Add Student
 2. Display All Students
 3. Update Student Information
@@ -129,5 +128,3 @@ Through this project, I gained hands-on experience with:
 
 **Yatri Saglani**  
 Computer Engineering Student | Python Learner 
-
----
