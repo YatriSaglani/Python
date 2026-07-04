@@ -150,10 +150,6 @@ After completing this project, you will understand:
 
 **Yatri Saglani**
 Computer Engineering Student
-Future Web Developer & Python Enthusiast
+Python Enthusiast
 
----
 
-## 📜 License
-
-This project is created for educational and learning purposes.
