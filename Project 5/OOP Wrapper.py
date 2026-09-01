@@ -21,7 +21,6 @@ class Manager(Employee):
         super().ShowInfo()
         print(f"Department  : {self.__department}")
 
-
 class Developer(Employee):
     def __init__(self, empId, name, age, salary, programming):
         super().__init__(empId, name, age, salary)
@@ -120,10 +119,6 @@ while True:
 
             else:
                 print("\nInvalid Choice!\n")
-
-        case 5:
-            print("\nThank you for using Employee Management System!")
-            break
-
+                
         case _:
             print("\nInvalid Choice! Please try again.\n")
