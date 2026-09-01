@@ -42,8 +42,7 @@ The program automatically records the **date, day, and time** when the entry is 
 
 ### 📸 Output Screenshot
 
-> **Screenshot 1: Add New Journal Entry**
-    ("C:\Users\yatri\Desktop\Output 1.jpg")
+> !["Output 1"]("D:\Python\Project 6\Output 4.jpg")  
 
 <br><br><br>
 
