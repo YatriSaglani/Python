@@ -56,7 +56,7 @@ If there are no entries, the program displays a message informing the user that 
 
 ### 📸 Output Screenshot
 
-> > !["Output 1"]("D:\Python\Project 6\Output 2.jpg")  
+>  !["Output 1"]("D:\Python\Project 6\Output 2.jpg")  
 <br><br><br>
 
 ---
@@ -69,7 +69,7 @@ The program checks the stored entries and displays the matching entries. If no m
 
 ### 📸 Output Screenshot
 
-> > !["Output 1"]("D:\Python\Project 6\Output 3.jpg")  
+>  !["Output 1"]("D:\Python\Project 6\Output 3.jpg")  
 
 <br><br><br>
 
@@ -83,7 +83,7 @@ Before deleting the entries, the program asks the user for confirmation. If the 
 
 ### 📸 Output Screenshot
 
-> > !["Output 1"]("D:\Python\Project 6\Output 4.jpg")  
+>  !["Output 1"]("D:\Python\Project 6\Output 4.jpg")  
 
 <br><br><br>
 ---
