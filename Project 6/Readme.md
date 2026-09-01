@@ -43,7 +43,8 @@ The program automatically records the **date, day, and time** when the entry is 
 ### 📸 Output Screenshot
 
 > **Screenshot 1: Add New Journal Entry**
-    !("C:\Users\yatri\Desktop\Output 1.jpg")
+<br>
+    !["Screenshot 1"](Output%201.jpg)
 
 <br><br><br>
 
@@ -58,6 +59,7 @@ If there are no entries, the program displays a message informing the user that 
 ### 📸 Output Screenshot
 
 > **Screenshot 2: View All Journal Entries**
+<br>
     !["Screenshot 2"](Output%202.jpg)
 <br><br><br>
 
@@ -72,7 +74,8 @@ The program checks the stored entries and displays the matching entries. If no m
 ### 📸 Output Screenshot
 
 > **Screenshot 3: Search Journal Entries**
-    !("C:\Users\yatri\Desktop\Output 3.jpg")
+<br>
+    !["Screenshot 3"](Output%203.jpg)
 
 <br><br><br>
 
@@ -87,7 +90,8 @@ Before deleting the entries, the program asks the user for confirmation. If the 
 ### 📸 Output Screenshot
 
 > **Screenshot 4: Delete Journal Entries**
-    ("C:\Users\yatri\Desktop\Output 4.jpg")
+   <br>
+    !["Screenshot 4"](Output%204.jpg)
 
 <br><br><br>
 ---
