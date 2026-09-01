@@ -58,7 +58,7 @@ If there are no entries, the program displays a message informing the user that 
 ### 📸 Output Screenshot
 
 > **Screenshot 2: View All Journal Entries**
-!["Screenshot2"](Output%201.jpg)
+![""](Output 2.jpg)
 <br><br><br>
 
 ---
