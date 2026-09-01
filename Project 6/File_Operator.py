@@ -54,7 +54,7 @@ def delete_entries():
     else:
         print("Deletion canceled.")
 
-print("\n\nWelcome to Personal Journal Manager!")
+print("\nWelcome to Personal Journal Manager!")
 
 print("Select an option:")
 
