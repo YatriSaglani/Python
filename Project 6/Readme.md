@@ -44,10 +44,6 @@ The program automatically records the **date, day, and time** when the entry is 
 
 !["Output1"](Output%201.jpg)
 
-<br><br><br>
-
-> **Screenshot 1: Add New Journal Entry**
-
 ---
 
 ## 2. View All Entries
@@ -59,10 +55,6 @@ If there are no entries, the program displays a message informing the user that 
 ### 📸 Output Screenshot
 
 !["Output2"](Output%202.jpg)
-
-<br><br><br>
-
-> **Screenshot 2: View All Journal Entries**
 
 ---
 
@@ -76,10 +68,6 @@ The program checks the stored entries and displays the matching entries. If no m
 
 !["Output3"](Output%203.jpg)
 
-<br><br><br>
-
-> **Screenshot 3: Search Journal Entries**
-
 ---
 
 ## 4. Delete All Entries
@@ -91,10 +79,6 @@ Before deleting the entries, the program asks the user for confirmation. If the 
 ### 📸 Output Screenshot
 
 !["Output4"](Output%204.jpg)
-
-<br><br><br>
-
-> **Screenshot 4: Delete Journal Entries**
 
 ---
 
