@@ -46,14 +46,9 @@ The main program calls:
 ```python
 Date_Time_Task()
 ```
-
 ### 📸 Output Screenshot
 
 !["Output1"](O1.jpg)
-
-<br><br><br>
-
-> **Screenshot 1: Date & Time Operations**
 
 ---
 
@@ -73,10 +68,6 @@ File_Operations_Task()
 
 !["Output2"](O2.jpg)
 
-<br><br><br>
-
-> **Screenshot 2: File Operations**
-
 ---
 
 ## 3. Math Operations
@@ -94,10 +85,6 @@ Math_Operations_Task()
 ### 📸 Output Screenshot
 
 !["Output3"](O3.jpg)
-
-<br><br><br>
-
-> **Screenshot 3: Math Operations**
 
 ---
 
@@ -117,10 +104,6 @@ Random_Data_Task()
 
 !["Output4"](O4.jpg)
 
-<br><br><br>
-
-> **Screenshot 4: Random Data Generation**
-
 ---
 
 ## 5. UUID Generator
@@ -138,10 +121,6 @@ UUID_Generator_Task()
 ### 📸 Output Screenshot
 
 !["Output5"](O5.jpg)
-
-<br><br><br>
-
-> **Screenshot 5: UUID Generator**
 
 ---
 
@@ -162,10 +141,6 @@ This helps in exploring the functions and attributes available in the program.
 ### 📸 Output Screenshot
 
 !["Output6"](O6.jpg)
-
-<br><br><br>
-
-> **Screenshot 6: Explore Module Attributes using `dir()`**
 
 ---
 
