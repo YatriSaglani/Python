@@ -10,7 +10,7 @@ def File_Operations_Task():
         choice = int(input("Choose an option : "))
 
         match choice:
-
+        
             case 1:
                 file_name = input("Enter file name: ")
                 file = open(file_name, "w")
