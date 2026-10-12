@@ -59,7 +59,7 @@ The Explore Dataset menu provides options to:
 
 ### 📸 Output Screenshot
 
-![Dataset Exploration](O2.pngpng)
+![Dataset Exploration](O2.png)
 
 *Screenshot 2: Exploring the dataset.*
 
@@ -97,7 +97,8 @@ Choose a numeric column and calculate:
 
 ### 📸 Output Screenshot
 
-![Dataset Operations](O3.png)
+![Dataset Operations](O3(1).png)
+![](O3(2).png)
 
 *Screenshot 3: Dataset operations.*
 
