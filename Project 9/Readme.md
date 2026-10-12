@@ -166,7 +166,7 @@ The program asks for a filename and saves the current Matplotlib figure as a PNG
 Example:
 
 ```text
-sales_chart.png
+Moisurizer_lineplot.png
 ```
 
 ### 📸 Output Screenshot
